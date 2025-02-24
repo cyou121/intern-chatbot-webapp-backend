@@ -3,7 +3,7 @@
 
 ## デモ動画
 
-![Demo GIF](assets/demo.gif)
+![Demo GIF](assets/demogif.gif)
 
 
 ## はじめに
