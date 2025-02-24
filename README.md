@@ -87,3 +87,5 @@ intern-2025-ml-backend/
 │── README.md                 # プロジェクト概要
 ```
 ## インフラのデザイン
+
+![Backend Structure](a.png)
