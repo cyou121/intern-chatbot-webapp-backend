@@ -88,4 +88,15 @@ intern-2025-ml-backend/
 ```
 ## インフラのデザイン
 
-![Backend Structure](a.png)
+![Backend Structure](aws.png)
+
+## AWS技術的に工夫した点
+
+1. **Docker** を用いてローカルのファイルをアップロード  
+2. **セキュリティ対策**（VPC、NAT Gateway）  
+3. **冗長性の確保**（AZ × 2）  
+4. **CI/CD（Docker + GitHub Actions）**  
+5. **CloudWatch + Slack 連携による監視**  
+6. **S3 + React を用いた静的ファイルのデプロイ**  
+7. **Lambda によるスケーラビリティの確保**
+
