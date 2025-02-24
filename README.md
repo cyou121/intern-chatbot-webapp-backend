@@ -86,3 +86,4 @@ intern-2025-ml-backend/
 │── requirements.txt          # 依存パッケージ（pip用）
 │── README.md                 # プロジェクト概要
 ```
+## インフラのデザイン
