@@ -3,8 +3,7 @@
 
 ## デモ動画
 
-![Demo GIF](assets/demogif.gif)
-
+![image](https://github.com/cyou121/intern-chatbot-webapp-backend/blob/main/demogif.gif)
 
 ## はじめに
 私が使用している Python のバージョンは **3.11** です。  
