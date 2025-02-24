@@ -9,7 +9,7 @@ from fastapi import FastAPI, Depends, HTTPException
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy.future import select
 from .models.models import User, Room, Message, Llm, Media
-
+from mangum import Mangum
 from app.database.session import get_async_db
 
 from app.api.endpoints.chatroom import router as chatroom_router
