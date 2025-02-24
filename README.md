@@ -1,5 +1,11 @@
 # Backend
 
+
+## デモ動画
+
+![Demo GIF](assets/demo.gif)
+
+
 ## はじめに
 私が使用している Python のバージョンは **3.11** です。  
 仮想環境を使用してプロジェクト環境を作成することを推奨します。
@@ -99,10 +105,5 @@ intern-2025-ml-backend/
 5. **CloudWatch + Slack 連携による監視**  
 6. **S3 + React を用いた静的ファイルのデプロイ**  
 7. **Lambda によるスケーラビリティの確保**
-## デモ動画
 
-<video width="600" controls>
-  <source src="your-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
